@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Search</string>
+    <string name="card_number">Card Number</string>
+    <string name="length">LENGTH</string>
+    <string name="luhn">LUHN</string>
+    <string name="type">TYPE</string>
+    <string name="brand">BRAND</string>
+    <string name="scheme_network">SCHEME/NETWORK</string>
+    <string name="prepaid">PREPAID</string>
+    <string name="bank">BANK</string>
+    <string name="country">COUNTRY</string>
+</resources>
